@@ -1,0 +1,16 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "nermin99's prettier config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nermin99/prettier-config.git"
+  },
+  "author": "Nermin Skenderovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nermin99/prettier-config"
+  },
+  "homepage": "https://github.com/nermin99/prettier-config"
+}
