@@ -1,9 +1,8 @@
 {
   "name": "@nermin99/prettier-config",
-  "version": "1.0.0",
-  "description": "nermin99's prettier config",
-  "private": false,
-  "main": "index.js",
+  "version": "1.0.1",
+  "description": "My personal Prettier config",
+  "main": "index.json",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/nermin99/prettier-config.git"
